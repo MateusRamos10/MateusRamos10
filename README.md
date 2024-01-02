@@ -22,6 +22,7 @@ Atualmente sou estudante de Ciência da Computação e estou desenvolvendo minha
 ### 🔗 Conecte-se Comigo
   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-simoes-ramos/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusramos.oficial@gmail.com)&nbsp;
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/mateusramos_oficial?tab=skills)
 
 ***Confira meus artigos clicando no Perfil DIO***
