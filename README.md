@@ -1,10 +1,11 @@
 
 ## Olá! Eu sou o Mateus Ramos 👍🏾   
-Atualmente sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades em **Python** e **Power BI** com foco em **Análise de Dados**.
+Atualmente sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades em **Python**, **Excel** e **Power BI** com foco em **Análise de Dados**.
 
 ---
 
 ### 📚 Últimos Livros
+📖 Aprendendo SQL - por *Alan Beaulieu*<br>
 📖 Curso intensivo de Python - por *Eric Matthes*<br>
 📖 Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - por *Aditya Y. Bhargava*<br>
 📖 Código limpo: Habilidades práticas do Agile Software - por *Robert C. Martin*<br><br>
